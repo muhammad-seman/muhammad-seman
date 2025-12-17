@@ -7,8 +7,8 @@ Fullstack web developer (4+ years) crafting Laravel, Go, React, and TypeScript s
   <a href="https://github-readme-stats.vercel.app/api?username=muhammad-seman&show_icons=true&theme=highcontrast&title_color=9acd32&text_color=cad3f5&icon_color=9acd32&border_color=9acd32&hide=issues">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammad-seman&show_icons=true&theme=highcontrast&title_color=9acd32&text_color=cad3f5&icon_color=9acd32&border_color=9acd32&hide=issues" alt="GitHub stats" />
   </a>
-  <a href="https://streak-stats.demolab.com?user=muhammad-seman&theme=highcontrast&hide_border=true&ring=9acd32&fire=9acd32&currStreakLabel=9acd32&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=muhammad-seman&theme=highcontrast&hide_border=true&ring=9acd32&fire=9acd32&currStreakLabel=9acd32&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-seman&theme=highcontrast&hide_border=true&ring=9acd32&fire=9acd32&currStreakLabel=9acd32">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-seman&theme=highcontrast&hide_border=true&ring=9acd32&fire=9acd32&currStreakLabel=9acd32" alt="GitHub streak" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-seman&layout=compact&theme=highcontrast&title_color=9acd32&text_color=cad3f5&hide_border=true&langs_count=8">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-seman&layout=compact&theme=highcontrast&title_color=9acd32&text_color=cad3f5&hide_border=true&langs_count=8" alt="Top languages" />
@@ -84,9 +84,11 @@ Fullstack web developer (4+ years) crafting Laravel, Go, React, and TypeScript s
 ---
 
 ## What I am focusing on
+- Building enterprise HRIS and vendor management systems with scalable architecture.
+- Developing fullstack solutions for healthcare scheduling and queue management.
+- Contributing to organization projects (SSA, HRMS) with production-ready code.
 - Shipping RBAC-first boilerplates to speed up team onboarding.
-- Building dependable APIs with clean interfaces and docs.
-- Polishing admin dashboards with pragmatic UX and guardrails.
+- Building dependable APIs with clean interfaces and comprehensive documentation.
 
 ---
 
