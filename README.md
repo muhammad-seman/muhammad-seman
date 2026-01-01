@@ -1,5 +1,5 @@
 # Hey, I'm Muhammad Seman
-Fullstack web developer (4+ years) crafting Laravel, Go, React, and TypeScript solutions.
+Software Engineer (4+ years) crafting Laravel, Go, React, and TypeScript solutions.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Muhammad%20Seman-Fullstack%20Web%20Dev-9acd32?style=for-the-badge&logo=github&labelColor=0b0f16&color=0b0f16" alt="Banner" />
